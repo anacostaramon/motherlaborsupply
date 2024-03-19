@@ -1,7 +1,7 @@
 # Online Appendices for (Not) Thinking about the future: Inattention and Female Labor Force Participation
 
 ## Questionnaires
-- Questionnaire Inattention survey Teacher ([English](https://anacostaramon.github.io/mls/Q_Inattention_teachers_El.pdf)) (German, original)
+- Questionnaire Inattention survey Teacher ([English](https://anacostaramon.github.io/mls/Q_Inattention_teachers_E.pdf)) (German, original)
 - Questionnaire Inattention survey Students (English) (German, original)
 - Questionnaire Inattention Wave 1 ([English](https://anacostaramon.github.io/mls/Q_W1_E.pdf)) ([German, original](https://anacostaramon.github.io/mls/Q_W1_G.pdf))
 - Questionnaire Inattention Follow-up ([English](https://anacostaramon.github.io/mls/Q_FU_E.pdf)) ([German, original](https://anacostaramon.github.io/mls/Q_FU_G.pdf))
