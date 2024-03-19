@@ -1,4 +1,4 @@
-# Online Appendices for (Not) Thinking about the future: Inattention and Female Labor Force Participation
+# Online Appendices for "(Not) Thinking about the future: Inattention and Female Labor Force Participation"
 
 ## Questionnaires
 - Questionnaire Inattention survey Teacher ([English](https://anacostaramon.github.io/mls/Q_Inattention_teachers_E.pdf)) (German, original)
