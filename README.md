@@ -1,5 +1,5 @@
 # (Not) Thinking about the future: Inattention and Female Labor Force Participation
-Documentation material for the study "(Not) Thinking about the future: Inattention and Female Labor Force Participation", by [Ana Costa-Ramón](https://sites.google.com/view/anamariacostaramon), [Ursina Schaede](https://ursinaschaede.github.io/), [Michaela Slotwinski](https://sites.google.com/site/michaelaslotwinski/home), and [Anne Brenøe](https://sites.google.com/view/aabrenoe/home).
+Documentation material for the study "_(Not) Thinking about the future: Inattention and Female Labor Force Participation_", by [Ana Costa-Ramón](https://sites.google.com/view/anamariacostaramon), [Ursina Schaede](https://ursinaschaede.github.io/), [Michaela Slotwinski](https://sites.google.com/site/michaelaslotwinski/home), and [Anne Brenøe](https://sites.google.com/view/aabrenoe/home).
 
 ## Questionnaires
 - Questionnaire Inattention survey Teacher ([English](https://anacostaramon.github.io/mls/Q_Inattention_teachers_E.pdf)) ([German, original](https://anacostaramon.github.io/mls/Q_Inattention_teachers_G.pdf))
