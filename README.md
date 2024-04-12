@@ -9,6 +9,6 @@ Documentation material for the study "_(Not) Thinking about the Future: Inattent
 
 ## Intervention material
 - [Treatment Video](https://anacostaramon.github.io/mls/Treatment_video.mp4)
-- Treatment Video Transcript ([English](https://anacostaramon.github.io/mls/Transcript_V_E.pdf)) ([German, original])(https://anacostaramon.github.io/mls/Transcript_V_G.pdf)
+- Treatment Video Transcript ([English](https://anacostaramon.github.io/mls/Transcript_V_E.pdf)) ([German, original](https://anacostaramon.github.io/mls/Transcript_V_G.pdf)
 - [Documentation projection tool](https://anacostaramon.github.io/mls/doc_projectiontool.pdf)
 - [Example projection tool (Screenshots)](https://anacostaramon.github.io/mls/Projectiontool_example.pdf)
